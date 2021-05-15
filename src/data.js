@@ -72,4 +72,5 @@ const menu = [
     desc: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente rem temporibus et odit minus a eligendi hic quia, tempore cum!`,
   },
 ];
+
 export default menu;
