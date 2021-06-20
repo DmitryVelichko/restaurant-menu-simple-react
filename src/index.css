@@ -113,9 +113,11 @@ p {
 }
 
 @media screen and (min-width: 800px) {
+  
   h1 {
     font-size: 4rem;
   }
+  
   h2 {
     font-size: 2.5rem;
   }
