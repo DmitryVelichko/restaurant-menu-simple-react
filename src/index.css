@@ -81,6 +81,7 @@ ul {
 a {
   text-decoration: none;
 }
+
 h1,
 h2,
 h3,
@@ -90,6 +91,7 @@ h4 {
   line-height: 1.25;
   margin-bottom: 0.75rem;
 }
+
 h1 {
   font-size: 3rem;
 }
