@@ -226,6 +226,7 @@ Menu
   border-radius: var(--radius);
   display: block;
 }
+
 .item-info header {
   display: flex;
   justify-content: space-between;
