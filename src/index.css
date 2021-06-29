@@ -184,6 +184,7 @@ Menu
   display: flex;
   justify-content: center;
 }
+
 .filter-btn {
   background: transparent;
   border-color: transparent;
